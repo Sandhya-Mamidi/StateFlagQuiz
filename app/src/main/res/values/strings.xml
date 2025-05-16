@@ -1,0 +1,13 @@
+<resources>
+   <string name="app_name">State Flag Quiz</string>
+   <string name="guess_country">Guess the State</string>
+   <string name="default_region_message">One region must be selected. Setting USA as the default region.</string>
+   <string name="default_region">USA</string>
+   <string name="action_settings">Settings</string>
+
+   <!-- FIX FOR preferences.xml -->
+   <string name="number_of_choices">Number of Choices</string>
+   <string name="number_of_choices_description">Select how many answer choices are shown in the quiz.</string>
+   <string name="world_regions">Select Regions</string>
+   <string name="world_regions_description">Select the regions to include in the quiz.</string>
+</resources>
